@@ -42,6 +42,8 @@ _(Porque la falta de tiempo y destreza para hacer un portfolio chulo **a tiempo*
 Este portfolio  no tiene la finalidad de ser usado para entrar al mercado laboral, ya que no está lo suficiemntemente completo, por lo que no he comprado un dominio ni un hosting para hacerlo público. Simplemente se ha realizado como proyecto para la entrega, por lo que sólo se encuentra en GitHu
 Mi idea es (una vez acabado el curso y con más calma), crear un portfolio que realmente merezca la pena y comprar un dominio definitivo para tenerlo totalmente operativo.
 
+El portfolio se puede ver de manera "pública" aquí: [Portfolio Laura Castaño](https://lauracastanomoreno.github.io/Portfolio-Laura-Castano/)
+
 ## Agradecimientos:
 * [BeJob](https://www.bejob.com/)
 * [Women4IT](https://www.bejob.com/women-4-it/)
